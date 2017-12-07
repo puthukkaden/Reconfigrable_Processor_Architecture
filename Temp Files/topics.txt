@@ -1,0 +1,47 @@
+1 system level architecture
+2 reconfigurable fabric
+2.1 reconfigurable fabric units
+2.2 reconifgurable interconnects
+2.3 emerging directions
+3 architecture: main trends
+3.1 coarse-grained fabrics
+3.2 heterogenous functions
+3.3 soft cores
+
+1. implementation spectrum
+1.1 plds
+1.2 cplds
+1.3 fpgas
+2. programmable logic elements
+2.1 lut based
+2.2 clb
+3. granularity
+3.1 fine grain
+3.2 fine-grain and coarse-grain
+4. reconfigurable interconnects
+5. reconfiguration models
+6. run time configuration
+
+1. granularity
+2. geometric/topology of RF
+3. interconnectivity of reconfigurable components
+4. homogeneity/heterogeneity of reconfigurable components
+5. coupling between sequential processor and RF
+6. distribution of local memory in RF
+
+1. Implementation Spectrum
+1.1 PLD
+1.2 CPLD
+1.3 FPGA
+2. System Level Architecture 
+3. Granularity
+3.1 Fine-Grained
+3.2 Corse-Grained
+4. Programmable Logic elements
+4.1 LUT based
+4.2 CLB based
+//5. Reconfigurable Interconnects
+6. Reconfiguration models
+6.1 Static
+6.2 Partial
+6.3 Dynamic
